@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374151121410",
+    "project_id": "alpha143",
+    "storage_bucket": "alpha143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374151121410:android:95dadd17feff8b46cab51b",
+        "android_client_info": {
+          "package_name": "com.alphamatrimonial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374151121410-0qpec7a7g98lnech523s8ae1k1j4r47s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphamatrimonial",
+            "certificate_hash": "36ceb8d696c97aff34f8980e28ae66e6a0a17bfd"
+          }
+        },
+        {
+          "client_id": "374151121410-ahift4kr2so9plmulcva19mjqk35f5ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxw0npQPBZ9tdKNeU92hcMVuxxfP1FvCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374151121410-ahift4kr2so9plmulcva19mjqk35f5ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
